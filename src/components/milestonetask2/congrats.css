@@ -1,0 +1,7 @@
+.bgcard{
+    background-image: url('card.png');
+    height:100vh;
+}
+.bgcol{
+    background-color: aquamarine;
+}

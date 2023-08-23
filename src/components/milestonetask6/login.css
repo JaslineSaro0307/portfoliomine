@@ -1,0 +1,14 @@
+
+.bglog{
+    background-image: linear-gradient(to right,rgb(212, 133, 212),rgb(237, 113, 134));
+    height:100vh;
+}
+.icon{
+    border:1px solid black;
+    border-radius: 5px;
+    
+}
+input{
+    border: none;
+    outline: none;
+}

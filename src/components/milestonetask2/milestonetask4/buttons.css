@@ -1,0 +1,15 @@
+.bg2{
+    background-image:url('sky.jpeg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    
+}
+.texth1{
+    font-style:italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fulldiv{
+    padding-top:150px;
+}
+

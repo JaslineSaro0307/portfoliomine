@@ -1,0 +1,24 @@
+.marb{
+    margin-left: 29px;
+}
+.marv{
+    margin-left: 65px;
+}
+.mars{
+    margin-left: 80px;
+}
+.bgpr{
+    background-image: url('wallpaper.jpeg');
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+.fonstyl{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:60px;
+    color: #033452;
+}
+.fontnormal{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+

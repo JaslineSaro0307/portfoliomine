@@ -1,0 +1,20 @@
+.padt{
+    padding-top: 20%;
+}
+.padcon{
+    padding-top:15%;
+}
+.img{
+    border-radius: 50%;
+    box-shadow: 10px 15px 0px 0px #3A5F72;
+}
+.fontnormal{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.fonticon{
+    font-size:300%;
+    color: #3A5F72;
+}
+.bgbtn{
+    background-color: #3A5F72 ;
+}
