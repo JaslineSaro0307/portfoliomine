@@ -16,9 +16,8 @@ export function Front(){
               strings: ['Making My Websites Better for My Clients','I am sure you know how it feels, too.','A website without visitors is like a ship lost in the horizon.'],
               autoStart: true,
               loop: true,
-            }}
-          /></h4>
-            
+              }}/>
+              </h4>
             </div>
             <Link to='/ab'><button type="button" className="btn btn-outline-info textsp btnbox m-5">About Me</button></Link>
           </div>

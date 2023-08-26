@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 export function Projects(){
     return(
         <>
-        <div className="bgpr p-5">
+             <div className="bgpr p-5">
             <h1 className="text-center fonstyl">Projects and Skills</h1>
             <div>
             <div class="container pt-5">
@@ -58,12 +58,12 @@ export function Projects(){
             </li>
             </ul>
             </div>
-            <div className="col-lg-6 d-flex flex-row  justify-content-around">
-            <Link to='/projectone'><button type="button" class="btn btn-outline-info text-white ">project 1</button></Link>
-            <Link  to='/projecttwo'><button type="button" class="btn btn-outline-info text-white ml-5">project 2</button></Link>
-            <Link  to='/projectthree'><button type="button" class="btn btn-outline-info  text-white ml-5">project 3</button></Link>
-            <Link  to='/projectfour'><button type="button" class="btn btn-outline-info  text-white ml-5">project 4</button></Link>
-            <Link  to='/projectfive'><button type="button" class="btn btn-outline-info text-white ml-5">project 5</button></Link>
+            <div className="col-lg-6 mt-5">
+            <Link to='/projectone'><button type="button" class="btn btn-outline-dark text-white ml-5 ">project 1</button></Link>
+            <Link  to='/projecttwo'><button type="button" class="btn btn-outline-dark text-white ml-5">project 2</button></Link>
+            <Link  to='/projectthree'><button type="button" class="btn btn-outline-dark  text-white ml-5">project 3</button></Link>
+            <Link  to='/projectfour'><button type="button" class="btn btn-outline-dark  text-white ml-5">project 4</button></Link>
+            <Link  to='/projectfive'><button type="button" class="btn btn-outline-dark text-white ml-5">project 5</button></Link>
           
             </div>
             </div>

@@ -6,7 +6,7 @@ export function Qualification(){
           <div className="bgqu p-5">
             <h1 className="text-center fontnormal fonticon mt-5">Qualification</h1>
           <div className="container  mx-auto row ">
-            <div className="containert mt-5 mb-5 col-lg-4">
+            <div className="containert mt-5 col-lg-4">
                   <div className="card-deck">
                     <div className="card ">
                       <div className="card-body text-center">
